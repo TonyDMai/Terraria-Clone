@@ -1,0 +1,114 @@
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\obj\x86\Debug\Quarterra.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Quarterra.exe
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Quarterra.pdb
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\obj\x86\Debug\Quarterra.exe
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\obj\x86\Debug\Quarterra.pdb
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\Texture1.xnb
+C:\Users\Owner\Desktop\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\Player.xnb
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\Texture1.xnb
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\Player.xnb
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Quarterra.exe
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Quarterra.pdb
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\obj\x86\Debug\Quarterra.csprojResolveAssemblyReference.cache
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\obj\x86\Debug\Quarterra.exe
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\obj\x86\Debug\Quarterra.pdb
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\play.xnb
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\title.xnb
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\playbtn.xnb
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\button.xnb
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\Texture1.xnb
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\Player.xnb
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\title.xnb
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\play.xnb
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\playbtn.xnb
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Content\button.xnb
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Quarterra.exe
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Quarterra.pdb
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\obj\x86\Debug\Quarterra.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\obj\x86\Debug\Quarterra.exe
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\Quarterra\obj\x86\Debug\Quarterra.pdb
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Player.xnb
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Quarterra.xnb
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Texture1.xnb
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Quarterra.exe
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Quarterra.pdb
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\obj\x86\Debug\Quarterra.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\obj\x86\Debug\Quarterra.exe
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\obj\x86\Debug\Quarterra.pdb
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Button1.xnb
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\background.xnb
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Texture2.xnb
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Slime.xnb
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Quarterra.xnb
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Texture1.xnb
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Button1.xnb
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Player.xnb
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\background.xnb
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Texture2.xnb
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Slime.xnb
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Quarterra.exe
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Quarterra.pdb
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\obj\x86\Debug\Quarterra.csprojResolveAssemblyReference.cache
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\obj\x86\Debug\Quarterra.exe
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\obj\x86\Debug\Quarterra.pdb
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\betasword.xnb
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Health.xnb
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Run.xnb
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Tink_1.xnb
+D:\TDM60\Downloads\Quarterra Final (3)\Quarterra Final\Quarterra Final\Quarterra\Quarterra\obj\x86\Debug\Quarterra.exe
+D:\TDM60\Downloads\Quarterra Final (3)\Quarterra Final\Quarterra Final\Quarterra\Quarterra\obj\x86\Debug\Quarterra.pdb

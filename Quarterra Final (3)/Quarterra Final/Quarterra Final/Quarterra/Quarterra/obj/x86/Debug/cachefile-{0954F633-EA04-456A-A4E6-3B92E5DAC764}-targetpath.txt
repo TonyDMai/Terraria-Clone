@@ -1,0 +1,3 @@
+Content\PSprite.xnb
+Content\Ground.xnb
+Content\character sprite.xnb

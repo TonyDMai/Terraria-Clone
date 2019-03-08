@@ -1,0 +1,5 @@
+C:\Users\Owner\Desktop\Quarterra\Quarterra\QuarterraContent\obj\x86\Debug\QuarterraContent.contentprojResolveAssemblyReference.cache
+C:\Users\Tony Doan\Desktop\Quarterra\Quarterra\Quarterra\QuarterraContent\obj\x86\Debug\QuarterraContent.contentprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Quarterra (3)\Quarterra\Quarterra\Quarterra\QuarterraContent\obj\x86\Debug\QuarterraContent.contentprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Quarterra Final\Quarterra\QuarterraContent\obj\x86\Debug\QuarterraContent.contentprojResolveAssemblyReference.cache
+C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\QuarterraContent\obj\x86\Debug\QuarterraContent.contentprojResolveAssemblyReference.cache

@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Quarterra.png</Source>
+      <Name>Quarterra</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Quarterra.xnb</Output>
+      <Time>2016-06-18T16:29:40-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture1.png</Source>
+      <Name>Texture1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Texture1.xnb</Output>
+      <Time>2016-06-18T21:00:28-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Button1.png</Source>
+      <Name>Button1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Button1.xnb</Output>
+      <Time>2016-06-18T16:54:38-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Player.png</Source>
+      <Name>Player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Player.xnb</Output>
+      <Time>2016-06-18T20:32:18-04:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2016-06-18T19:37:44-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Texture2.png</Source>
+      <Name>Texture2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Texture2.xnb</Output>
+      <Time>2016-06-18T21:00:32-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Slime.png</Source>
+      <Name>Slime</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Slime.xnb</Output>
+      <Time>2016-06-20T14:17:13.6852687-04:00</Time>
+    </Item>
+    <Item>
+      <Source>betasword.png</Source>
+      <Name>betasword</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\betasword.xnb</Output>
+      <Time>2016-06-23T13:53:02.1818039-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Health.spritefont</Source>
+      <Name>Health</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Health.xnb</Output>
+      <Time>2016-06-23T22:30:59.8827856-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Run.wav</Source>
+      <Name>Run</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Run.xnb</Output>
+      <Time>2016-06-24T18:55:33.4428922-04:00</Time>
+    </Item>
+    <Item>
+      <Source>Tink_1.wav</Source>
+      <Name>Tink_1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\Tink_1.xnb</Output>
+      <Time>2016-06-24T18:55:33.4509041-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{57657AAE-9D6B-4229-A955-D07C745F7A26}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\QuarterraContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Tony Doan\Desktop\Quarterra Final\Quarterra Final\Quarterra\Quarterra\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\WINDOWS\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2016-06-06T13:43:30.2127873-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
